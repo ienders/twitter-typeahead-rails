@@ -33,9 +33,7 @@ Add one of the following to your application.js manifest:
 
 ```js
 
-//= require twitter/typeahead                                                                                                                                                                                                                             
-
-//= require twitter/typeahead.min                                                                                                                                                                                                                        
+//= require twitter/typeahead                                                                                                                                                
 
 ```
 
